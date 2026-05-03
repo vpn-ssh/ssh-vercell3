@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "http://vpsmx.online/$1"
+      "destination": "http://18.216.119.59/$1"
     }
   ]
 }
